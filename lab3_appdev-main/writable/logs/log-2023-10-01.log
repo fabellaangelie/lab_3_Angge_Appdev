@@ -1,0 +1,34 @@
+CRITICAL - 2023-10-01 06:51:34 --> Invalid file: "include/contact.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('include/contact.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('include/contact', [], true)
+ 3 APPPATH\Controllers\Home.php(25): view('include/contact')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->showContact()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab_3_Angge_Appdev\\lab3_appdev-main\\public\\index.php')
+CRITICAL - 2023-10-01 06:53:37 --> Invalid file: "include/contact.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('include/contact.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('include/contact', [], true)
+ 3 APPPATH\Controllers\Home.php(25): view('include/contact')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->showContact()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab_3_Angge_Appdev\\lab3_appdev-main\\public\\index.php')
+CRITICAL - 2023-10-01 06:54:37 --> Invalid file: "include/to.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('include/to.php')
+ 2 SYSTEMPATH\View\View.php(467): CodeIgniter\View\View->render('include/to', null, true)
+ 3 APPPATH\Views\include\contact.php(1): CodeIgniter\View\View->include('include/to')
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\lab_3_Angge_Appdev\\lab3_appdev-main\\app\\Views\\include\\contact.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('include/contact', [], true)
+ 7 APPPATH\Controllers\Home.php(25): view('include/contact')
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->showContact()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab_3_Angge_Appdev\\lab3_appdev-main\\public\\index.php')

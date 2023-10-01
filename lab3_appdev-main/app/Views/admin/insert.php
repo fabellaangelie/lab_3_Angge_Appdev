@@ -7,10 +7,11 @@
     <!-- Add Bootstrap CSS link -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
+
 <body>
-    <div class="container mt-5">
+    <div  class="con">
         <h1 class="text-center mb-4">Add Product</h1>
-        <form onsubmit="return insertOrUpdateProduct()">
+        <form onsubmit="return insertOrUpdateProduct()" class="form">
             <!-- Remove the action attribute from the form -->
             <div class="form-group">
                 <label for="prodname">Product Name:</label>

@@ -16,4 +16,12 @@ class Home extends BaseController
     {
       return view('include/customer');
     }
+    public function showAbout()
+    {
+      return view('include/about');
+    }
+    public function showContact()
+    {
+      return view('include/contact');
+    }
 }

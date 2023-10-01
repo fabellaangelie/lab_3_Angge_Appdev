@@ -4,11 +4,11 @@
       <nav class="navbar navbar-light bg-light justify-content-between">
          <div id="mySidenav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="index.html">Home</a>
+            <a href="/main">Home</a>
             <a href="/prod">Products</a>
-            <a href="about.html">About</a>
+            <a href="about">About</a>
             <a href="/customer">Client</a>
-            <a href="contact.html">Contact</a>
+            <a href="contact">Contact</a>
          </div>
          <span class="toggle_icon" onclick="openNav()"><img src="images/toggle-icon.png"></span>
          <a class="logo" href="index.html"><img src="images/logo.png"></a></a>
