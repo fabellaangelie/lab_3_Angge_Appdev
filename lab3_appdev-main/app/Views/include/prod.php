@@ -75,14 +75,14 @@
          <div class="row">
             <div class="col-lg-3 col-sm-6">
                <div class="product_box">
-                  <h4 class="bursh_text">Beauty Bursh</h4>
+                  <h4 class="bursh_text">Beauty Concealer</h4>
                   <p class="lorem_text">incididunt ut labore et dolore magna aliqua. Ut enim </p>
                   <img src="images/img-1.png" class="image_1">
                   <div class="btn_main">
                      <div class="buy_bt">
                         <ul>
-                           <li class="active"><a href="#">Buy Now</a></li>
-                           <li><a href="#">Buy Now</a></li>
+                           <li class="active"><a href="concealer">Buy Now</a></li>
+                           <li><a href="concealer"></a></li>
                         </ul>
                      </div>
                      <h3 class="price_text">Price $30</h3>
@@ -91,14 +91,14 @@
             </div>
             <div class="col-lg-3 col-sm-6">
                <div class="product_box">
-                  <h4 class="bursh_text">Beauty Bursh</h4>
+                  <h4 class="bursh_text">Beauty Brush</h4>
                   <p class="lorem_text">incididunt ut labore et dolore magna aliqua. Ut enim </p>
                   <img src="images/img-2.png" class="image_1">
                   <div class="btn_main">
                      <div class="buy_bt">
                         <ul>
-                           <li class="active"><a href="#">Buy Now</a></li>
-                           <li><a href="#">Buy Now</a></li>
+                           <li class="active"><a href="brush">Buy Now</a></li>
+                           <li><a href="brush"></a></li>
                         </ul>
                      </div>
                      <h3 class="price_text">Price $30</h3>
@@ -107,14 +107,14 @@
             </div>
             <div class="col-lg-3 col-sm-6">
                <div class="product_box">
-                  <h4 class="bursh_text">Beauty Bursh</h4>
+                  <h4 class="bursh_text">Beauty Mascara</h4>
                   <p class="lorem_text">incididunt ut labore et dolore magna aliqua. Ut enim </p>
                   <img src="images/img-3.png" class="image_1">
                   <div class="btn_main">
                      <div class="buy_bt">
                         <ul>
-                           <li class="active"><a href="#">Buy Now</a></li>
-                           <li><a href="#">Buy Now</a></li>
+                           <li class="active"><a href="mascara">Buy Now</a></li>
+                           <li><a href="mascara"></a></li>
                         </ul>
                      </div>
                      <h3 class="price_text">Price $30</h3>
@@ -123,14 +123,14 @@
             </div>
             <div class="col-lg-3 col-sm-6">
                <div class="product_box">
-                  <h4 class="bursh_text">Beauty Bursh</h4>
+                  <h4 class="bursh_text">Beauty Liptint</h4>
                   <p class="lorem_text">incididunt ut labore et dolore magna aliqua. Ut enim </p>
                   <img src="images/img-4.png" class="image_1">
                   <div class="btn_main">
                      <div class="buy_bt">
                         <ul>
-                           <li class="active"><a href="#">Buy Now</a></li>
-                           <li><a href="#">Buy Now</a></li>
+                           <li class="active"><a href="liptint">Buy Now</a></li>
+                           <li><a href="liptint"></a></li>
                         </ul>
                      </div>
                      <h3 class="price_text">Price $30</h3>

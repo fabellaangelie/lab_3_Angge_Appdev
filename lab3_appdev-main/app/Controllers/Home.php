@@ -24,4 +24,30 @@ class Home extends BaseController
     {
       return view('include/contact');
     }
+    public function showAdmin()
+    {
+      return view('auth/adminlogin');
+    }
+    public function showUser()
+    {
+      return view('auth/login');
+    }
+
+
+    public function concealer()
+    {
+        return view('concealer');
+    }
+    public function brush()
+    {
+        return view('brush');
+    }
+    public function mascara()
+    {
+        return view('mascara');
+    }
+    public function liptint()
+    {
+        return view('liptint');
+    }
 }
